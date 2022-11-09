@@ -37,10 +37,15 @@ Deliverables
 Each group should deliver:
 
 1. Report (20%)
+
 (a) Explain what you have done and where you are at in the implementation
+
 (b) Report 1: Problem statement and understanding (Nov 8th, 2022)
+
 (c) Report 2: Data pre-processing and choice of approach to implement. Explore the different options (Nov 29th, 2022)
+
 (d) Final Report: Experimental evaluation and results (Dec. 8th, 2022) – Final report should also include the previous two.
+
 
 Note: Please submit only new content for each submission mentioned above
 except the final report. The final report should contain a complete report
@@ -48,8 +53,13 @@ with all the content of the previous reports.
 
 
 2. Code (10%)
+
 (a) Codes must be clean, commented, easy-to-read, executable
+
 (b) Create a GitHub repo and commit your codes there (share the link to the repo in your reports)
+
 (c) Codes will be reviewed using an AI-powered tool, so be careful! You are allowed to use resources like StackOverflow, just make sure that you cite the appropriate resources when you use them.
+
 (d) The deadline for your last commit is Dec 8th, 2022 (11:59 pm)
+
 
