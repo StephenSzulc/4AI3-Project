@@ -27,9 +27,13 @@ The scope of this project is to generate a new image that is not available in
 real life, based on a model trained using the Generative Adversarial Model (GAN).
 
 Project Outcomes:
+
 • Preprocess and clean the data.
+
 • Explore various options of GAN to find the most optimized model.
+
 • Generate a new image with a newly trained algorithm
+
 
 -------------------------------------------------------------------------------
 
